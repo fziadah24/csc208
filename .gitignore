@@ -1,2 +1,9 @@
-# macOS
+### macOS ###
+# General
 .DS_Store
+.AppleDouble
+.LSOverride
+a.out
+Icon
+.vscode
+launch.json
